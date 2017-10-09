@@ -42,7 +42,9 @@ a img {
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
 	display: block;
 }
-
+li { 
+		text-align: right; 
+}
 body {
 	font-family: sans-serif;
 	color: #blue;
