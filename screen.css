@@ -43,13 +43,13 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 	display: block;
 }
 li { 
-		text-align: right; 
-		color: black;
-		font-size: 2em;
+	text-align: right; 
+	font-size: 5em;
+	color: red;
 }
 body {
 	font-family: sans-serif;
-	color: #blue;
+	color: green;
 }
 
 a {
@@ -62,10 +62,10 @@ h1 {
 h2 {
 	Font-size: 3em;
 	text-align: right;
-	color: teal;
+	color: Blue;
 }
 a:hover {
-	color: #009ce0;
+	color: red;
 }
 
 #main {
