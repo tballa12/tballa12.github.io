@@ -44,8 +44,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 li { 
 		text-align: right; 
-		color: green;
-		font-size: 2em
+		color: orange;
+		font-size: 2em;
 }
 body {
 	font-family: sans-serif;
