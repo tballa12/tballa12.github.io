@@ -1,0 +1,74 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+  }
+
+body {
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+caption, th, td {
+	text-align: left;
+	font-weight: normal;
+	vertical-align: middle;
+}
+
+q, blockquote {
+	quotes: none;
+}
+ 
+q:before, q:after, blockquote:before, blockquote:after {
+	content: "";
+	content: none;
+}
+
+a img {
+	border: blue;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+	display: block;
+}
+li { 
+	text-align: right; 
+	font-size: 2em;
+	color: red;
+}
+body {
+	font-family: sans-serif;
+	color: green;
+}
+
+a {
+	color: #0388a6;
+}
+h1 {
+	Font-size: 6em;
+	color: blue;
+	text-align: center;
+}
+h2 {
+	Font-size: 4em;
+	text-align: center;
+	color: green;
+}
+a:hover {
+	color: black;
+}
+
+#main {
+	padding: 50px;
+}
