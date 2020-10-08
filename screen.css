@@ -37,6 +37,7 @@ q:before, q:after, blockquote:before, blockquote:after {
 
 a img {
 	border: blue;
+	vertical-align: middle;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
